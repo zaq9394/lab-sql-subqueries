@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | SQL Subqueries
+# Lab | SQL Subqueries 3.03
 
 In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals. Create appropriate joins wherever necessary. 
 
@@ -14,3 +14,7 @@ In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/
 6. Which are films starred by the most prolific actor? Most prolific actor is defined as the actor that has acted in the most number of films. First you will have to find the most prolific actor and then use that actor_id to find the different films that he/she starred.
 7. Films rented by most profitable customer. You can use the customer table and payment table to find the most profitable customer ie the customer that has made the largest sum of payments
 8. Customers who spent more than the average payments.
+9. Get number of monthly active customers.
+10. Active users in the previous month.
+11. Percentage change in the number of active customers.
+12. Retained customers every month.
